@@ -3,6 +3,7 @@ Personalized artificial intelligence (AI) assisted short term memory. Includes t
 
 ## Use Cases
   - Text messages (twilio)
+  - Selfie drone
 
 ## Inputs
   - Text messages
